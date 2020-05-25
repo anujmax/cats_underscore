@@ -1,0 +1,7 @@
+### Custom Setting
+.idea/
+
+target/
+
+project/boot/
+project/plugins/project/
